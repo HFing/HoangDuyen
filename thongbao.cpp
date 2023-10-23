@@ -1,1 +1,2 @@
 cout <<"hello";
+cout << "hi" ;
